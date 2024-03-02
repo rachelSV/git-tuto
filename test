@@ -1,0 +1,5 @@
+git add nom-du-fichier
+
+git commit -m "message du commit"
+
+git push
